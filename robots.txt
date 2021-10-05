@@ -1,0 +1,1 @@
+Sitemap: https://guilhermedumam.github.io/TesteFastPageAPIAWARI/sitemap.xml
